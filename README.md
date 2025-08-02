@@ -1,18 +1,7 @@
-# me Remedan/n3dir/
+## me Remedan/n3dir/
 
- developer and cybersecurity enthusiast, passionate about:
-- 🛠️ Building useful tools.
-- 🔐 Security & hacking (Red team mindset, CTFs, ethical hacking)
-- 📖 Documentation, open source, and learning by doing
+ i am developer passionate about building useful tools with security in mind. Always experimenting with new ideas and side projects
 
----
-
-## 🚀 Projects I'm Working On
-- 🤖 **Telegram bots** for differnet purposes.
-- 🧰 **Linux customization tools** & shell extensions
-- 💡 Always experimenting with new ideas and side projects
-
----
 
 ## 📚 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
