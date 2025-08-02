@@ -1,6 +1,6 @@
 ## me? Remedan /n3dir/
 
- i am developer passionate about building useful tools with security in mind. Always experimenting with new ideas and side projects
+ i am a developer passionate about building useful tools with security in mind. Always experimenting with new ideas and side projects
 
 
 ## 📚 Tech Stack
