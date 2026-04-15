@@ -1,6 +1,6 @@
 ## me? Remedan /n3dir/
 
- i am a developer passionate about building useful tools with security in mind. Always experimenting with new ideas and side projects
+ ​I believe that curiosity and persistence are the best teachers. My path in technology has been defined by a commitment to independent study and a hands-on approach to understanding how systems work. This journey has helped me develop a strong foundation in cybersecurity and system analysis.
 
 
 ## 📚 Tech Stack
@@ -23,10 +23,11 @@
 ## 📫 Let's Connect
 - 📬 Telegram: [@n3dir](https://t.me/n3dir)
 
+- - 📬 Telegram: [@remedan_m](https://t.me/remedan_m)
 ---
 
 - 💻 More coming soon...still cooking.
 
 ---
 
-> "Break things. Build better." — My motto
+> breaking is more fun 😁 
