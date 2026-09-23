@@ -21,21 +21,22 @@ echo "[+] Status: Building my career on understanding the limits of systems..."
 ```
 
 ### `~/arsenal`
-***I spend most of my time living in the CLI. Here is the tech stack and tooling I use daily:
+_**I spend most of my time living in the CLI. Here is the tech stack and tooling I use daily:**_
 
 **Languages & Scripting**
 - **Python** (Automation, Scripting, Exploit Dev)
-- 🐚 **Bash** (System Admin, Workflow Automation)
+-  **Bash** (System Admin, Workflow Automation)
 
 **Offensive Security & Networking**
-- ️‍♂️ **Recon & Scanning:** Nmap, Masscan, FFuf, Gobuster
-- 🕸️ **Web App Sec:** Burp Suite, Nikto, SQLMap
+
+-  **Recon & Scanning:** Nmap, Masscan, FFuf, Gobuster
+-  **Web App Sec:** Burp Suite, Nikto, SQLMap
 
 ---
 
 ### `~/github_stats`
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=n3dir&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=n3dir&theme=radical&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3dir&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=remedan-m&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=remedan-m&theme=radical&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remedan-m&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </p>
 
 ---
 
@@ -49,5 +50,3 @@ I believe in learning in public and sharing knowledge. Let's connect!
 - **Email:** [contact@n3dir.com](mailto:contact@n3dir.com)
 
 ---
-
-<p align="center"> <i>"The quieter you become, the more you are able to hear." - Kali Linux</i> </p> 
