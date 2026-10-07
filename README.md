@@ -40,6 +40,17 @@ _**I spend most of my time living in the CLI. Here is the tech stack and tooling
 
 ---
 
+### `~/current_status.sh`
+
+```bash
+#!/bin/bash
+
+echo "[+] Identity: Security Researcher | Red Team Enthusiast"
+echo "[+] Focus: Offensive Security, Network Infrastructure, Vulnerability Research"
+echo "[+] Philosophy: The best way to learn is by doing the breaking."
+echo "[+] Status: Building my career on understanding the limits of systems..."
+```
+
 ### `~/connect`
 
 I believe in learning in public and sharing knowledge. Let's connect!
